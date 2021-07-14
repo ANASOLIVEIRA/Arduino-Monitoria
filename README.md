@@ -232,3 +232,38 @@ Depois recomendo de clique em fechar a página da IDE, e abrir novamente. Seleci
 
 ![image](https://user-images.githubusercontent.com/61547619/125559116-2d6cd890-7d22-473f-9de3-3199921e772c.png)
 
+Fim método 1
+
+Método 2) Outro modo de fazer essa tarefa é pesquisar na própria IDE  a biblioteca.
+
+![image](https://user-images.githubusercontent.com/61547619/125563299-a21a8448-95d7-4519-a0af-b50874191d80.png)
+
+Pesquisar 8266
+
+![image](https://user-images.githubusercontent.com/61547619/125563331-8a97ac0e-6a3b-48fe-a289-824bed4999d7.png)
+
+Instalar o pacote
+
+![image](https://user-images.githubusercontent.com/61547619/125563361-933fefa0-9320-437a-9f1a-7928022065d8.png)
+
+Clicar em fechar. Depois recomendo de clique em fechar a página da IDE, e abrir novamente. Selecionar a placa pelo caminha Ferramentas > Placa > ESP8266 Board(1.0.1) > Generic ESP8266 Module
+
+![image](https://user-images.githubusercontent.com/61547619/125563411-95fa7bb8-6922-49ab-bcc7-c4b365970c41.png)
+
+Fim método 2
+
+E já está habilitado o uso da placa ESP8266.
+Importante é endereçar corretamente qual porta USB o programa está sendo transferido o códogo. Em relação a outras configurações necessárias, como CPU Frequency ou Flash Size, essas vão mudar de acordo com a placa que estiver sendo utilizada. Mas essas informações serão colocadas somente uma vez.
+
+![image](https://user-images.githubusercontent.com/61547619/125563585-3e5b0527-7a89-42b0-af7f-5b2161a14e83.png)
+
+5) Quais as informações necessárias para a configurar o programa do blynk na IDE arduino.
+Como explicado no exercício 1 é necessário ter:
+-  Token: que é o código de segurança que permite a conexão da placa com o celular;
+
+![image](https://user-images.githubusercontent.com/61547619/125563628-07037f94-3c32-4cd6-8e12-eef31d65d24f.png)
+
+ 
+- Caso for conexão via Wi-Fi é necessário ter o nome da rede e a senha;
+
+![image](https://user-images.githubusercontent.com/61547619/125563784-0a6d848c-55a0-49d2-9951-398f453ef30d.png)
