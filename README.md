@@ -187,6 +187,7 @@ Itens necessários:
 1) 1- Chip FT232R
 2) 2 botões push
 3) 3 resistores 10k
+
 Passo 1) Selecionar placa Generic ESP8266 Module
 
 ![image](https://user-images.githubusercontent.com/61547619/125558001-5e42fbd6-863c-4b0d-9cc6-c70443f1b25d.png)
@@ -254,7 +255,7 @@ Clicar em fechar. Depois recomendo de clique em fechar a página da IDE, e abrir
 Fim método 2
 
 E já está habilitado o uso da placa ESP8266.
-Importante é endereçar corretamente qual porta USB o programa está sendo transferido o códogo. Em relação a outras configurações necessárias, como CPU Frequency ou Flash Size, essas vão mudar de acordo com a placa que estiver sendo utilizada. Mas essas informações serão colocadas somente uma vez.
+Importante endereçar corretamente qual porta USB o programa está sendo enviado. Em relação a outras configurações necessárias, como CPU Frequency ou Flash Size, essas vão mudar de acordo com a placa que estiver sendo utilizada. Mas essas informações serão colocadas somente uma vez.
 
 ![image](https://user-images.githubusercontent.com/61547619/125563585-3e5b0527-7a89-42b0-af7f-5b2161a14e83.png)
 
