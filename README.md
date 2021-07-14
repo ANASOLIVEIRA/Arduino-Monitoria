@@ -30,7 +30,7 @@ Interface
 
 ![image](https://user-images.githubusercontent.com/61547619/125557127-da67ba0d-8c2f-4bea-8449-5dde1cc0a02d.png)
 
-Passo 4) Digitar o código na IDE Arduíno
+##Passo 4) Digitar o código na IDE Arduíno
 
 ```C++
 
@@ -172,6 +172,8 @@ void loop()
 }
 
 ```
+
+
 
 Aplicativo Blink
 
